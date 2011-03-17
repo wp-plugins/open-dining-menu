@@ -57,7 +57,7 @@ function odn_button_add_settings_link($links, $file) {
 	if (!$this_plugin) $this_plugin = plugin_basename(__FILE__);
 
 	if ($file == $this_plugin) {
-		$settings_link = '<a href="options-general.php?page=odn-orderbutton/odn-orderbutton.php">'.__("Settings", "odn_button").'</a>';
+		$settings_link = '<a href="options-general.php?page=open-dining-menu/odn-orderbutton.php">'.__("Settings", "odn_button").'</a>';
 		array_unshift($links, $settings_link);
 	}
 	
