@@ -9,7 +9,7 @@ Show your restaurant's menu and take orders from your WordPress-powered site.
 
 == Description ==
 
-If you're not currently taking orders through your site, then your site isn't doing enough for you!  This plugin allows you to add your Open Dining menu to your site and take customer orders.
+If you're not currently taking orders through your site, then your site isn't doing enough for you!  This plugin allows you to add your [Open Dining](http://www.opendining.net) menu to your site and take customer orders.
 
 == Installation ==
 
